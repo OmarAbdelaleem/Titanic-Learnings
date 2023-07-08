@@ -1,6 +1,6 @@
 # Titanic: Learnings 🚢💡
 
-Welcome to Titanic: Learnings! This engaging project combines data analysis, visualization, and predictive modeling to explore the factors influencing survival rates of the passengers aboard the Titanic.
+Welcome to Titanic: Learnings! This engaging project combines data analysis, and visualization to explore the factors influencing the survival rates of the passengers aboard the Titanic.
 
 ![Titanic]( RMS_Titanic_3.jpeg) 
 
