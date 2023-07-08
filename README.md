@@ -46,8 +46,6 @@ We welcome contributions from the community to enhance this project. To contribu
 4. Push to the branch: `git push origin feature-branch`
 5. Open a pull request.
 
-Please ensure that your contributions align with our [code of conduct](CODE_OF_CONDUCT.md) and follow the established coding standards.
-
 ## Contact
 
 For any questions or suggestions regarding the project, feel free to reach out to us:
