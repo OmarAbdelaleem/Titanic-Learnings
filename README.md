@@ -24,7 +24,6 @@ To run this project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/titanic-learnings.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Download the Titanic dataset: [Titanic Dataset](https://www.kaggle.com/c/titanic/data)
-4. Place the dataset in the `data` folder within the project directory.
 
 ## Usage
 
