@@ -2,7 +2,7 @@
 
 Welcome to Titanic: Learnings! This engaging project combines data analysis, visualization, and predictive modeling to explore the factors influencing survival rates of the passengers aboard the Titanic.
 
-![Titanic]([titanic_image.jpg](https://en.wikipedia.org/wiki/Titanic#/media/File:RMS_Titanic_3.jpg))
+![Titanic]( RMS_Titanic_3.jpeg) 
 
 ## Table of Contents
 
